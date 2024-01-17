@@ -196,22 +196,22 @@
 
   "adminMenu": [
       {
-        "name": "Manage Roles"
+        "name": "Manage Roles",
       },
       {
-        "name": "Manage Users"
+        "name": "Manage Users",
       },
       {
-        "name": "Organization"
+        "name": "Organization",
       },
       {
-        "name": "User Groups"
+        "name": "User Groups",
       },
       {
-        "name": "Terminals"
+        "name": "Terminals",
       },
       {
-        "name": "Queue System"
+        "name": "Queue System",
       },
-  ]
+  ],
 }

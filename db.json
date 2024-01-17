@@ -192,7 +192,7 @@
       "status": "unfinished",
       "datetime": "2023-01-03T12:42:28"
     }
-  ],
+  ]
 
   "adminMenu": [
       {
@@ -213,5 +213,5 @@
       {
         "name": "Queue System",
       }
-  ],
+  ]
 }

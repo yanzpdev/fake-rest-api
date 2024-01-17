@@ -192,5 +192,26 @@
       "status": "unfinished",
       "datetime": "2023-01-03T12:42:28"
     }
+  ],
+
+  "adminMenu": [
+      {
+        "name": "Manage Roles"
+      },
+      {
+        "name": "Manage Users"
+      },
+      {
+        "name": "Organization"
+      },
+      {
+        "name": "User Groups"
+      },
+      {
+        "name": "Terminals"
+      },
+      {
+        "name": "Queue System"
+      },
   ]
 }

@@ -69,66 +69,6 @@
   	"message": "Application B16020230100002-2R    (cho)", 
   	"filetype": "business_application", 
   	"data": "rO0ABXNyABdqYXZhLnV0aWwuTGlua2VkSGFzaE1hcDTATlwQbMD7AgABWgALYWNjZXNzT3JkZXJ4cgARamF2YS51dGlsLkhhc2hNYXAFB9rBwxZg0QMAAkYACmxvYWRGYWN0b3JJAAl0aHJlc2hvbGR4cD9AAAAAAAAMdwgAAAAQAAAAAXQABnRhc2tpZHQAHlRTSy03MTk2YWJmMjoxODU3NGEyNzQxZjotNTdiMHgA"
-  },
-  {
-    "objid": "TSK-123abc45:18b3def6g8h:-i9j0",
-    "dtfiled": "2023-05-20T08:30:15",
-    "sender": "USER . JohnDoe",
-    "recipientid": "USR-JohnDoe",
-    "recipienttype": "user",
-    "message": "Task ABC123 assigned",
-    "filetype": "task_assignment",
-    "data": "rO0ABXNyABdqYXZhLnV0aWwuTGlua2VkSGFzaE1hcDTATlwQbMD7AgABWgALYWNjZXNzT3JkZXJ4cgARamF2YS51dGlsLkhhc2hNYXAFB9rBwxZg0QMAAkYACmxvYWRGYWN0b3JJAAl0aHJlc2hvbGR4cD9AAAAAAAAMdwgAAAAQAAAAAXQABnRhc2tpZHQAHVRTS2lkMzRkODMzOjE4YjNkZjY4ZzhkOi1pOWow"
-  },
-    {
-    "objid": "TSK-456def78:18b9abc1d2e:-j3k4",
-    "dtfiled": "2023-09-08T14:45:30",
-    "sender": "USER . JaneDoe",
-    "recipientid": "USR-JaneDoe",
-    "recipienttype": "user",
-    "message": "Task XYZ456 completed",
-    "filetype": "task_completion",
-    "data": "rO0ABXNyABdqYXZhLnV0aWwuTGlua2VkSGFzaE1hcDTATlwQbMD7AgABWgALYWNjZXNzT3JkZXJ4cgARamF2YS51dGlsLkhhc2hNYXAFB9rBwxZg0QMAAkYACmxvYWRGYWN0b3JJAAl0aHJlc2hvbGR4cD9AAAAAAAAMdwgAAAAQAAAAAXQABnRhc2tpZHQAHVRTS2lkMzRkODMzOjE4YjNkZjY4ZzhkOi1qM2s0"
-  },
-  {
-    "objid": "TSK-789ghi01:18b1j2kl3m4n:-o5p6",
-    "dtfiled": "2023-12-01T18:20:45",
-    "sender": "USER . AliceSmith",
-    "recipientid": "USR-AliceSmith",
-    "recipienttype": "user",
-    "message": "Task PQR789 in progress",
-    "filetype": "task_in_progress",
-    "data": "rO0ABXNyABdqYXZhLnV0aWwuTGlua2VkSGFzaE1hcDTATlwQbMD7AgABWgALYWNjZXNzT3JkZXJ4cgARamF2YS51dGlsLkhhc2hNYXAFB9rBwxZg0QMAAkYACmxvYWRGYWN0b3JJAAl0aHJlc2hvbGR4cD9AAAAAAAAMdwgAAAAQAAAAAXQABnRhc2tpZHQAHVRTS2lkMzRkODMzOjE4YjNkZjY4ZzhkOi1vNXA2"
-  },
-    {
-    "objid": "TSK-123abc45:18b3def6g8h:-i9j0",
-    "dtfiled": "2023-05-20T08:30:15",
-    "sender": "USER . JohnDoe",
-    "recipientid": "USR-JohnDoe",
-    "recipienttype": "user",
-    "message": "Task ABC123 assigned",
-    "filetype": "task_assignment",
-    "data": "rO0ABXNyABdqYXZhLnV0aWwuTGlua2VkSGFzaE1hcDTATlwQbMD7AgABWgALYWNjZXNzT3JkZXJ4cgARamF2YS51dGlsLkhhc2hNYXAFB9rBwxZg0QMAAkYACmxvYWRGYWN0b3JJAAl0aHJlc2hvbGR4cD9AAAAAAAAMdwgAAAAQAAAAAXQABnRhc2tpZHQAHVRTS2lkMzRkODMzOjE4YjNkZjY4ZzhkOi1pOWow"
-  },
-  {
-    "objid": "TSK-456def78:18b9abc1d2e:-j3k4",
-    "dtfiled": "2023-09-08T14:45:30",
-    "sender": "USER . JaneDoe",
-    "recipientid": "USR-JaneDoe",
-    "recipienttype": "user",
-    "message": "Task XYZ456 completed",
-    "filetype": "task_completion",
-    "data": "rO0ABXNyABdqYXZhLnV0aWwuTGlua2VkSGFzaE1hcDTATlwQbMD7AgABWgALYWNjZXNzT3JkZXJ4cgARamF2YS51dGlsLkhhc2hNYXAFB9rBwxZg0QMAAkYACmxvYWRGYWN0b3JJAAl0aHJlc2hvbGR4cD9AAAAAAAAMdwgAAAAQAAAAAXQABnRhc2tpZHQAHVRTS2lkMzRkODMzOjE4YjNkZjY4ZzhkOi1qM2s0"
-  },
-  {
-    "objid": "TSK-789ghi01:18b1j2kl3m4n:-o5p6",
-    "dtfiled": "2023-12-01T18:20:45",
-    "sender": "USER . AliceSmith",
-    "recipientid": "USR-AliceSmith",
-    "recipienttype": "user",
-    "message": "Task PQR789 in progress",
-    "filetype": "task_in_progress",
-    "data": "rO0ABXNyABdqYXZhLnV0aWwuTGlua2VkSGFzaE1hcDTATlwQbMD7AgABWgALYWNjZXNzT3JkZXJ4cgARamF2YS51dGlsLkhhc2hNYXAFB9rBwxZg0QMAAkYACmxvYWRGYWN0b3JJAAl0aHJlc2hvbGR4cD9AAAAAAAAMdwgAAAAQAAAAAXQABnRhc2tpZHQAHVRTS2lkMzRkODMzOjE4YjNkZjY4ZzhkOi1vNXA2"
   }
 ],
 
